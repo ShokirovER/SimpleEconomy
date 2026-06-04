@@ -241,7 +241,7 @@ to-report bottom-50-pct-wealth
 end
 
 ; Copyright 2011 Uri Wilensky.
-
+```
 
 ## Источники и используемые инструменты
 
